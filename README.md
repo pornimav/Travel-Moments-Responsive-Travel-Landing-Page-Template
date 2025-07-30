@@ -19,7 +19,7 @@ It's ideal for beginners, designers, and developers who want to learn web layout
 
 
 ## 📁 Project Structure
-Web-main/
+Travel//
 ├── traval.html # Main HTML file (travel landing page)
 ├── styles.css # Styling for the layout and responsiveness
 ├── bg.jpg # Background image for the left container
